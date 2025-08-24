@@ -15,6 +15,8 @@ public class Student {
     private String name;
     private String grade;
     private String section;
+
+    @Column(unique = true, nullable = false)
     private String guardianContact;
 
     // relationships
