@@ -1,4 +1,4 @@
-# 🧬 AI-Based Learning Disorder Detector – Teacher Dashboard
+# 🧬 AI-Based Learning Disorder Detector
 
 ## 📌 Overview
 This project is a **Spring Boot backend system** designed to assist schools in the **early detection of learning disorders** (e.g., dyslexia, ADHD, slow learning).  
